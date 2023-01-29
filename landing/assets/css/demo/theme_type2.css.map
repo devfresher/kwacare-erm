@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,oFAA4E;AAGpF;;;;;;gBAMiB;EACb,WAAW,EAAE,oBAAoB;EACjC,WAAW,EAAE,IAAI;;AAGrB,0BAA2B;EACvB,UAAW;IACP,SAAS,EAAE,MAAM",
+"sources": ["../../sass/demo/theme_type2.scss"],
+"names": [],
+"file": "theme_type2.css"
+}
